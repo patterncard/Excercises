@@ -3,7 +3,7 @@ https://www.w3resource.com/javascript-exercises/javascript-basic-exercises.php
 3,
 4,
 5 (set interval, pop, unshift, split),
-7,
+7,(join)
 9,
 10(input in function call),
 11,
