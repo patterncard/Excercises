@@ -3,9 +3,9 @@ https://www.w3resource.com/javascript-exercises/javascript-basic-exercises.php
 3,
 4,
 5 (set interval, pop, unshift, split),
-7,(join)
+7,(join )
 9,
-10(input in function call),
+10(switch),                                                           //haven't done
 11,
 12,
 14 (filename as argument: string passed in function call),
@@ -15,3 +15,4 @@ https://www.w3resource.com/javascript-exercises/javascript-basic-exercises.php
 18,
 19,
 20 (return true or false)
+HTML course 
