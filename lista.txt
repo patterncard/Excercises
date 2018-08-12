@@ -5,7 +5,7 @@ https://www.w3resource.com/javascript-exercises/javascript-basic-exercises.php
 5 (set interval, pop, unshift, split),
 7,(join )
 9,
-10(switch),                                                           //haven't done
+10(switch, 3 param)
 11,
 12,
 14 (filename as argument: string passed in function call),
