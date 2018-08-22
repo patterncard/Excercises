@@ -1,4 +1,6 @@
 function is50(dogs, cats) {
-  return (((dogs === 50 || cats === 50) && (dogs !== cats)) || dogs + cats === 50);
+  const isOneParamEq50 = ((dogs === 50 || cats === 50) && dogs !== cats);
+  const isSumEq50 = dogs + cats === 50;
+  return isOneParamEq50 || isSumEq50;
 }
 console.log(is50(50, 30));
